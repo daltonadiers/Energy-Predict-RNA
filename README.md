@@ -10,7 +10,8 @@ Este repositório contém o código para um modelo de rede neural que prevê a d
 
 ## Dataset
 
-    O Dataset utilizado "Daily Electricity Price and Demand Data" está disponível no Kaggle, através do link: https://www.kaggle.com/datasets/aramacus/electricity-demand-in-victoria-australia
+   - O Dataset utilizado "Daily Electricity Price and Demand Data" está disponível no Kaggle, através do link: 
+    https://www.kaggle.com/datasets/aramacus/electricity-demand-in-victoria-australia
 
 ## Requisitos
 
@@ -44,7 +45,7 @@ Antes de executar o código, certifique-se de ter os seguintes requisitos instal
 
 ## Autores
 
-    Dalton Oberdan Adiers @daltonadiers
-    Miguel Giacomolli Righi
+   - Dalton Oberdan Adiers @daltonadiers
+   - Miguel Giacomolli Righi
 
-    Você pode entrar em contato através do e-mail: dalton@upf.br
+   - Você pode entrar em contato através do e-mail: dalton@upf.br
