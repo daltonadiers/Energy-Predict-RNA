@@ -41,7 +41,7 @@ Antes de executar o código, certifique-se de ter os seguintes requisitos instal
 
 ## Sobre
 
-    Esse projeto foi construído para a disciplina de Inteligência Artifical do curso de Ciência da Computação da Universidade de Passo Fundo.
+   - Esse projeto foi construído para a disciplina de Inteligência Artifical do curso de Ciência da Computação da Universidade de Passo Fundo.
 
 ## Autores
 
